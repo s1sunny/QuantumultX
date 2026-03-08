@@ -1,69 +1,33 @@
 <h1>🌸Sakura Scripts</h1>
 <h3>Collection of Scripts written for QuantumultX iOS App </h4>
+
 <a href="https://github.com/Sliverkiss/QuantumultX/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Sliverkiss/QuantumultX?color=yellow&logo=riseup&logoColor=yellow&style=flat-square"></a>
 <a href="https://github.com/Sliverkiss/QuantumultX/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Sliverkiss/QuantumultX?color=orange&style=flat-square"></a>
 <a href="https://github.com/Sliverkiss/QuantumultX/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Sliverkiss/QuantumultX?color=red&style=flat-square"></a>
 <a href="https://t.me/sliverkiss_blog"><img alt="Telegram" src="https://img.shields.io/badge/chat-telegram-blue.svg?logo=telegram&style=flat-square"/></a> 
-
-![Visitor Count](https://profile-counter.glitch.me/Sliverkiss/count.svg) 
 
 ## 简介
 
 本仓库主要用于收集和整理各位大佬写的脚本，以便能够快速找到所需要的项目，更好地服务于QuantumultX软件的使用者。本仓库仅负责整理链接订阅，没有任何的脚本文件，所以请不要Fork。如果你对本项目有任何意见，请在issue上提出。Thank you～
 
 ### 安装链接
+- [脚本自助查询](http://sliverkiss.free.hr/QuantumultX/)：等待修复 🟡 
+- [任务仓库订阅](https://iqyi.us.kg/Sliverkiss/waf/main/sliverkiss.gallery.json)：正常可用 🟢
+- [boxjs订阅](https://gist.githubusercontent.com/Sliverkiss/18bd01be356360a8065a21ea71685ad3/raw/sliverkiss.boxjs.json)：正常可用 🟢
+- [icon图标集](https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/sliverkiss.icons.json)：正常可用 🟢
 
-[脚本自助查询](http://sliverkiss.free.hr/QuantumultX/)｜[任务仓库订阅](https://gist.githubusercontent.com/Sliverkiss/a7496bd073820942b44a9b36874aaf4c/raw/sliverkiss.gallery.json)｜[boxjs订阅](https://gist.githubusercontent.com/Sliverkiss/18bd01be356360a8065a21ea71685ad3/raw/sliverkiss.boxjs.json)｜[icon图标集](https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/sliverkiss.icons.json)
+### 打赏 | Coffie☕️
+如果觉得本脚本对您有帮助，欢迎支持，您的鼓励是我持续更新的动力！☕☕☕
 
-### 脚本列表(兼容NE/Node环境)
+* BTC: bc1pvq57n7v3ntsf38wmypfggxtvxun7cjgj5qczsq47yrvgjcldfa7skyrq2t
 
-#### 🟢 正常可用
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/pgsh.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Guding88/Script/main/bawangchaji/bwcj.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Hsay.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/tpt.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/yht.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Dlm.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/czy13724/LeviIcons/main/leviicons/iqooc.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/bgps.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/ydyp.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/jsb.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/netflixgc.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Zmhy.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/heytea.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/zbs.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/zgrb.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Wzyd.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/mxbc.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/rbxj.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/picc.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/yhss.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Michelin.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Hldc.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Midea.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Kbj.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Hxek.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Bnmdhg.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Ysf.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Cqxhsd.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/qtx.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Quark.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Switch.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Stlxz.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Hax.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/missevan.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/naixue.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Dmzj.png" style="border-radius: 5px;" width="40px">
-#### 🟡 等待修复/部分失效
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/xxyx.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/AliYunDrive.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/zippo.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Linovel.png" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/fmz200/wool_scripts/main/icons/apps/ccbLife.jpg" style="border-radius: 5px;" width="40px">
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/xmApp.png" style="border-radius: 5px;" width="40px">
-#### 🔴 停止维护/已失效
-&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/Cwm.png" style="border-radius: 5px;" width="40px">
+* ETH: 0x1d418627ad6b043900cbe11fe439759bdf2b5170
 
+* SOL: AZAKF74rTu7UFVSNRzsKV4HHpTwarax6cG8KAh4fP5rQ
+
+* TON: UQCEUpbCP5zWB5tlGzR1K7Ly9ZMdgZn3FuUbVydJyDlMvAVw
+
+* TRON: TLCv2hQnHrv5ifQocn7nH5x1F1U1gG6v7u
 
  ## 免责声明
 * 项目内所涉及脚本、LOGO 仅为资源共享、学习参考之目的，不保证其合法性、正当性、准确性；切勿使用项目做任何商业用途或牟利；
@@ -89,11 +53,6 @@
 ## Star🌟
 
 <img src="https://api.star-history.com/svg?repos=sliverkiss/QuantumultX&type=Date" alt="Star History Chart" width="600" height="356" align="center">
-
-## 赞赏码
-
-> ⬇️ 如果这个项目对你有所帮助的话，可以投喂作者喵～感谢投喂喵～你的支持，就是我更新的动力。
-<img src="https://raw.githubusercontent.com/Sliverkiss/QuantumultX/main/icon/IMG_3486.jpeg" alt="Eallet" width="200" height="200" align="center">
 
 ## 特别感谢
 *  [@chavyleung](https://github.com/chavyleung) 
